@@ -41,6 +41,7 @@
     "babel-plugin-transform-es2015-modules-commonjs": "6.24.1",
     "babel-preset-env": "1.5.1",
     "babel-preset-es2017": "6.24.1",
+    "css-loader": "0.28.7",
     "enzyme": "2.8.2",
     "eslint": "^4.6.0",
     "eslint-config-airbnb": "15.0.1",
